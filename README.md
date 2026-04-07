@@ -1,131 +1,85 @@
 <div align="center">
 
-# ⚙️ SYSTEM: ONLINE
+# SYSTEM: ONLINE
 
-![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=0a0e27&logo=github)
-![RANK](https://img.shields.io/badge/RANK-C_ASCENDING-00FF00?style=for-the-badge&labelColor=0a0e27)
-![LEVEL](https://img.shields.io/badge/LEVEL-19-00FF00?style=for-the-badge&labelColor=0a0e27)
-
-_"Harnessing the density of a magnetar, processing the scale of a multiverse."_
+![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat&labelColor=0a0e27&logo=github&logoColor=00ff88)
+![RANK](https://img.shields.io/badge/RANK-C%20ASCENDING-00ff88?style=flat&labelColor=0a0e27)
+![LEVEL](https://img.shields.io/badge/LEVEL-19-00ff88?style=flat&labelColor=0a0e27)
 
 </div>
 
 ---
 
-<table border="0" width="100%" cellpadding="15" cellspacing="0">
-<tr>
-<td width="70%" valign="top">
+## PROFILE
 
-## 🎮 CURRENT PURSUIT: LANGUAGE MASTERY
+**Krishna** | CosmicMagnetar | AI Engineer & Game Architect
 
-<div align="center">
-
-**TOP 5 LANGUAGES**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=pie&theme=nightowl&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00FF00&hide=html&card_width=400)
-
-</div>
+π Year 2, Semester 4 | Newton School of Technology  
+⚙ Software Development Intern @ Alfaleus Tech
 
 ---
 
-## 📊 SYSTEM STATS
+## METRICS
 
-### GITHUB METRICS (LIVE DATA)
-
-![Public Repos](https://img.shields.io/badge/Repositories-72-00FF00?style=flat-square&labelColor=1a1f3a&logo=github)
-![Followers](https://img.shields.io/badge/Followers-6-00FF00?style=flat-square&labelColor=1a1f3a&logo=users)
-![Following](https://img.shields.io/badge/Following-2-00FF00?style=flat-square&labelColor=1a1f3a&logo=users)
-
-### CORE ATTRIBUTES
-
-![Attribute 1](https://img.shields.io/badge/S_RANK-Generative%20AI-00FF00?style=flat-square&labelColor=1a1f3a)
-![Attribute 2](https://img.shields.io/badge/A_RANK-Open%20Source-00FF00?style=flat-square&labelColor=1a1f3a)
-![Attribute 3](https://img.shields.io/badge/A_RANK-Game%20Development-00FF00?style=flat-square&labelColor=1a1f3a)
-![Attribute 4](https://img.shields.io/badge/B_RANK-3D%20Graphics-00FF00?style=flat-square&labelColor=1a1f3a)
+| Metric | Value |
+|--------|-------|
+| **Repositories** | 72 |
+| **Followers** | 6 |
+| **Following** | 2 |
+| **GPA** | 7.9/10 |
 
 ---
 
-## 🚨 HERO'S MISSIONS: ACTIVE QUESTS
+## TECHNICAL STACK
 
-| Quest                                                                            | Description                                                                  |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **[PROJECT: PULSAR]** [OpenTriage](https://github.com/CosmicMagnetar/openTriage) | AI dashboard for autonomous GitHub issue management with intelligent routing |
-| **[PROJECT: A.S.P.I.R.E]**                                                       | Autonomous NPC Sentience Engine - Engineering NPCs with evolving behavior    |
-| **[PROJECT: EV-AGENT]**                                                          | Infrastructure Planning Capstone - Agentic AI for predictive planning        |
-| **[PROJECT: FLEXP]**                                                             | Gamified Fitness - Mobile app bridging health and gaming                     |
-
----
-
-## 📅 QUEST LOG: GSOC 2026 PATH
-
-![Research Status](https://img.shields.io/badge/STATUS-Researching_Organizations-white?style=flat&labelColor=1a1f3a&color=00FF00)
-
-- [✓] Research Metaflow / OpenVINO
-- [~] Prepare high-impact GSoC proposals
-- [ ] Launch **Koren** YouTube channel
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat&labelColor=0a0e27&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&labelColor=0a0e27&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&labelColor=0a0e27&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&labelColor=0a0e27&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&labelColor=0a0e27&logo=node.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-f5792a?style=flat&labelColor=0a0e27&logo=blender&logoColor=white)
 
 ---
 
-## 📚 TOP REPOSITORIES
+## TOP LANGUAGES
 
-- **[CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)** - Config files for my GitHub profile.
-- **[Batman-Arkham-Combat](https://github.com/CosmicMagnetar/Batman-Arkham-Combat)** - Recreating the Combat System from the Batman Arkham Series
-- **[acf-sdk-gsoc](https://github.com/CosmicMagnetar/acf-sdk-gsoc)** - The Cognitive Firewall is a Zero Trust control layer for agentic systems that protects the reasoning control plane of large language model (LLM) agents. It prevents prompt injection, context manipulation, memory poisoning, and unsafe tool-output re-injection by enforcing policy-driven validation before any input enters model context. 
-- **[A-SDF](https://github.com/CosmicMagnetar/A-SDF)** - A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (ICCV 2021)
-- **[GenAI_Project](https://github.com/CosmicMagnetar/GenAI_Project)** - Deployed Link
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88)
 
 ---
 
-## 🔥 RECENT ACTIVITY
+## PROJECTS
 
-- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
-- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
-- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
-- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
-- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
+### [OpenTriage (Pulsar)](https://github.com/CosmicMagnetar/openTriage)
+AI-powered dashboard for autonomous GitHub issue management with intelligent classification and routing.
 
----
+### [A.S.P.I.R.E]
+Autonomous NPC Sentience Engine. Engineering NPCs with evolving behavioral patterns and learning capabilities.
 
-</td>
-</tr>
-</table>
+### [EV Agent Capstone]
+Agentic AI system for predictive infrastructure planning and demand forecasting.
 
-## 📈 CONTRIBUTION TIMELINE
-
-<div align="center">
-
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=nightowl&hide_border=true&bg_color=0a0e27&icon_color=00FF00&text_color=c9d1d9&title_color=00FF00&hide=issues,contribs&rank_icon=github&card_width=500)
-
-</div>
+### [Flexp]
+Gamified fitness mobile application bridging health tracking with game mechanics.
 
 ---
 
-## 🎯 CHOOSE YOUR PURSUIT
+## CONTRIBUTION ACTIVITY
 
-> **Featured Projects:**
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88&card_width=500&hide=issues,contribs)
 
-### OpenTriage (Pulsar)
+---
 
-Autonomous GitHub issue management dashboard powered by AI with intelligent classification and real-time routing.
+## GOALS: GSoC 2026
 
-### A.S.P.I.R.E - NPC Engine
-
-Engineering NPCs with autonomous sentience and evolving behavioral patterns for game development.
-
-### Flexp - Fitness Gamified
-
-Mobile application bridging fitness tracking with gamification mechanics and social engagement.
-
-### Koren - Life Stories & Animation
-
-YouTube channel dedicated to life stories and animation content creation.
+- [x] Research Metaflow / OpenVINO
+- [ ] Prepare high-impact proposals
+- [ ] Launch Koren YouTube channel
 
 ---
 
 <div align="center">
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-07-00FF00?style=flat&labelColor=1a1f3a)
-![Open To](https://img.shields.io/badge/Open%20To-Collaborations-00FF00?style=flat&labelColor=1a1f3a)
-![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00FF00?style=flat&labelColor=1a1f3a)
+![Updated](https://img.shields.io/badge/Updated-2026-04-07-00ff88?style=flat&labelColor=0a0e27)
+![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00ff88?style=flat&labelColor=0a0e27)
 
 </div>
