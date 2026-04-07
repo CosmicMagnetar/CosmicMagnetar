@@ -43,7 +43,7 @@
 
 ## TOP LANGUAGES
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88)
 
 ---
 
@@ -69,7 +69,7 @@ Gamified fitness mobile application bridging health tracking with game mechanics
 
 ## CONTRIBUTION ACTIVITY
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88&card_width=500&hide=issues,contribs)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88&rank_icon=github)
 
 ---
 
@@ -83,7 +83,7 @@ Gamified fitness mobile application bridging health tracking with game mechanics
 
 <div align="center">
 
-![Updated](https://img.shields.io/badge/Updated-2026-04-07-00ff88?style=flat&labelColor=0a0e27)
+![Updated](https://img.shields.io/badge/Updated-2026.04.07-00ff88?style=flat&labelColor=0a0e27)
 ![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00ff88?style=flat&labelColor=0a0e27)
 
 </div>
