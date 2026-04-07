@@ -6,7 +6,7 @@
 ![RANK](https://img.shields.io/badge/RANK-C_ASCENDING-00FF00?style=for-the-badge)
 ![LEVEL](https://img.shields.io/badge/LEVEL-19-00FF00?style=for-the-badge)
 
-*"Harnessing the density of a magnetar, processing the scale of a multiverse."*
+_"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 
 </div>
 
@@ -14,18 +14,19 @@
 
 ## 🎮 PLAYER DASHBOARD
 
-| | |
-|---|---|
-| <div align="center"><img src="https://avatars.githubusercontent.com/u/CosmicMagnetar?size=300" alt="krishna" width="100%"/><br/><b>PLAYER: KRISHNA</b><br/>CosmicMagnetar<br/></div> | <div align="center"><b>CURRENT PURSUIT</b><br/><br/>![Skill Radar](https://quickchart.io/chart?c=%7B%22type%22:%22radar%22,%22data%22:%7B%22labels%22:%5B%22AI/ML%22,%22GameDev%22,%22Leadership%22,%22Astrophysics%22,%22OpenSource%22,%22Frontend%22%5D,%22datasets%22:%5B%7B%22label%22:%22Skills%22,%22data%22:%5B95,90,85,80,88,75%5D,%22borderColor%22:%22rgb(0,255,0)%22,%22backgroundColor%22:%22rgba(0,255,0,0.15)%22,%22pointBackgroundColor%22:%22rgb(0,255,0)%22%7D%5D%7D,%22options%22:%7B%22plugins%22:%7B%22legend%22:%7B%22display%22:false%7D%7D,%22scale%22:%7B%22ticks%22:%7B%22display%22:false%7D%7D%7D%7D) |
+|                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="https://avatars.githubusercontent.com/u/CosmicMagnetar?size=300" alt="krishna" width="100%"/><br/><b>PLAYER: KRISHNA</b><br/>CosmicMagnetar<br/></div> | <div align="center"><b>CURRENT PURSUIT</b><br/><br/>![Skill Radar](<https://quickchart.io/chart?c=%7B%22type%22:%22radar%22,%22data%22:%7B%22labels%22:%5B%22AI/ML%22,%22GameDev%22,%22Leadership%22,%22Astrophysics%22,%22OpenSource%22,%22Frontend%22%5D,%22datasets%22:%5B%7B%22label%22:%22Skills%22,%22data%22:%5B95,90,85,80,88,75%5D,%22borderColor%22:%22rgb(0,255,0)%22,%22backgroundColor%22:%22rgba(0,255,0,0.15)%22,%22pointBackgroundColor%22:%22rgb(0,255,0)%22%7D%5D%7D,%22options%22:%7B%22plugins%22:%7B%22legend%22:%7B%22display%22:false%7D%7D,%22scale%22:%7B%22ticks%22:%7B%22display%22:false%7D%7D%7D%7D>) |
 
 ---
 
 ## 📊 SYSTEM STATS
 
 ### BIOMETRICS
-![GPA](https://img.shields.io/badge/INTEL_(Academic)-7.9%2F10-00FF00?style=flat-square&logo=cpu&logoColor=white)
-![Dev Status](https://img.shields.io/badge/CRAFT_(Development)-Advanced-00FF00?style=flat-square&logo=code&logoColor=white)
-![Leadership](https://img.shields.io/badge/CORE_(Leadership)-President-00FF00?style=flat-square&logo=crown&logoColor=white)
+
+![GPA](<https://img.shields.io/badge/INTEL_(Academic)-7.9%2F10-00FF00?style=flat-square&logo=cpu&logoColor=white>)
+![Dev Status](<https://img.shields.io/badge/CRAFT_(Development)-Advanced-00FF00?style=flat-square&logo=code&logoColor=white>)
+![Leadership](<https://img.shields.io/badge/CORE_(Leadership)-President-00FF00?style=flat-square&logo=crown&logoColor=white>)
 
 ### ACTIVE SKILLS
 
@@ -70,8 +71,9 @@
 ## 🎯 CHOOSE YOUR PURSUIT
 
 ### Featured Projects:
+
 - **OpenTriage (Pulsar)** - Autonomous Issue Management
-- **A.S.P.I.R.E** - NPC Sentience Engine  
+- **A.S.P.I.R.E** - NPC Sentience Engine
 - **Flexp** - Gamified Fitness Platform
 - **Koren** - Life Stories & Animation Channel
 
