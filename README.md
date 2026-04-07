@@ -16,11 +16,13 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 <tr>
 <td width="70%" valign="top">
 
-## 🎮 CURRENT PURSUIT: QUANTUM MULTIVERSE
+## 🎮 CURRENT PURSUIT: LANGUAGE MASTERY
 
 <div align="center">
 
-![Skill Radar](<https://quickchart.io/chart?c=%7B%22type%22:%22radar%22,%22data%22:%7B%22labels%22:%5B%22AI/ML%22,%22GameDev%22,%22Leadership%22,%22Astrophysics%22,%22OpenSource%22,%22Frontend%22%5D,%22datasets%22:%5B%7B%22label%22:%22Skills%22,%22data%22:%5B95,90,85,80,88,75%5D,%22borderColor%22:%22rgb(0,255,0)%22,%22backgroundColor%22:%22rgba(0,255,0,0.15)%22,%22pointBackgroundColor%22:%22rgb(0,255,0)%22,%22pointBorderColor%22:%22%23fff%22,%22borderWidth%22:2,%22pointRadius%22:5%7D%5D%7D,%22options%22:%7B%22plugins%22:%7B%22legend%22:%7B%22display%22:false%7D%7D,%22scale%22:%7B%22max%22:100,%22ticks%22:%7B%22display%22:false,%22backdropColor%22:%22rgba(0,0,0,0)%22%7D,%22gridLines%22:%7B%22color%22:%22rgba(0,255,0,0.2)%22,%22circular%22:true%7D,%22pointLabels%22:%7B%22font%22:%7B%22size%22:13%7D,%22fontColor%22:%22rgb(0,255,0)%22%7D%7D%7D%7D>)
+**TOP 5 LANGUAGES**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=pie&theme=nightowl&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00FF00&hide=html&card_width=400)
 
 </div>
 
@@ -28,18 +30,12 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 
 ## 📊 SYSTEM STATS
 
-### BIOMETRICS
+### CORE ATTRIBUTES
 
-![GPA](<https://img.shields.io/badge/INTEL_(Academic)-7.9/10-00FF00?style=for-the-badge&labelColor=1a1f3a&logo=cpu&logoColor=white&cacheSeconds=36000>)
-![Dev Status](<https://img.shields.io/badge/CRAFT_(Development)-Advanced-00FF00?style=for-the-badge&labelColor=1a1f3a&logo=code&logoColor=white&cacheSeconds=36000>)
-![Leadership](<https://img.shields.io/badge/CORE_(Leadership)-President-00FF00?style=for-the-badge&labelColor=1a1f3a&logo=crown&logoColor=white&cacheSeconds=36000>)
-
-### ACTIVE SKILLS
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-S_RANK-white?style=flat&labelColor=1a1f3a&color=00FF00&cacheSeconds=36000)
-![Open Source](https://img.shields.io/badge/Open%20Source-A_RANK-white?style=flat&labelColor=1a1f3a&color=00FF00&cacheSeconds=36000)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-A_RANK-white?style=flat&labelColor=1a1f3a&color=00FF00&cacheSeconds=36000)
-![3D Graphics](https://img.shields.io/badge/3D%20Graphics-B_RANK-white?style=flat&labelColor=1a1f3a&color=00FF00&cacheSeconds=36000)
+![Attribute 1](https://img.shields.io/badge/S_RANK-Generative%20AI-00FF00?style=flat-square&labelColor=1a1f3a)
+![Attribute 2](https://img.shields.io/badge/A_RANK-Open%20Source-00FF00?style=flat-square&labelColor=1a1f3a)
+![Attribute 3](https://img.shields.io/badge/A_RANK-Game%20Development-00FF00?style=flat-square&labelColor=1a1f3a)
+![Attribute 4](https://img.shields.io/badge/B_RANK-3D%20Graphics-00FF00?style=flat-square&labelColor=1a1f3a)
 
 ---
 
@@ -56,7 +52,7 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 
 ## 📅 QUEST LOG: GSOC 2026 PATH
 
-![Research Status](https://img.shields.io/badge/STATUS-Researching_Organizations-white?style=flat&labelColor=1a1f3a&color=00FF00&cacheSeconds=36000)
+![Research Status](https://img.shields.io/badge/STATUS-Researching_Organizations-white?style=flat&labelColor=1a1f3a&color=00FF00)
 
 - [✓] Research Metaflow / OpenVINO
 - [~] Prepare high-impact GSoC proposals
@@ -68,13 +64,11 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 </tr>
 </table>
 
-## 📈 LIVE GITHUB METRICS
+## 📈 CONTRIBUTION TIMELINE
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=nightowl&hide_border=true&bg_color=0a0e27&icon_color=00FF00&text_color=c9d1d9&title_color=00FF00&card_width=500&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=nightowl&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00FF00)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=nightowl&hide_border=true&bg_color=0a0e27&icon_color=00FF00&text_color=c9d1d9&title_color=00FF00&hide=issues,contribs&rank_icon=github&card_width=500)
 
 </div>
 
@@ -104,8 +98,8 @@ YouTube channel dedicated to life stories and animation content creation.
 
 <div align="center">
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-00FF00?style=flat&labelColor=1a1f3a&cacheSeconds=36000)
-![Open To](https://img.shields.io/badge/Open%20To-Collaborations-00FF00?style=flat&labelColor=1a1f3a&cacheSeconds=36000)
-![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00FF00?style=flat&labelColor=1a1f3a&cacheSeconds=36000)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-00FF00?style=flat&labelColor=1a1f3a)
+![Open To](https://img.shields.io/badge/Open%20To-Collaborations-00FF00?style=flat&labelColor=1a1f3a)
+![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00FF00?style=flat&labelColor=1a1f3a)
 
 </div>
