@@ -1,181 +1,62 @@
 <div align="center">
-
-# 🌌 CosmicMagnetar
-
-_AI Engineer | Game Architect | Open Source Contributor_
-
-[LinkedIn](#) • [Portfolio](#) • [YouTube](#) • [Email](#)
-
+  <h1>SYSTEM: ONLINE 🌌</h1>
+  <i>"Harnessing the density of a magnetar, processing the scale of a multiverse."</i>
 </div>
 
----
+<table border="0">
+  <tr>
+    <td width="30%" valign="top">
+      <img src="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/main/avatar.png" onerror="this.src='https://via.placeholder.com/300x400?text=Upload+Your+Avatar+Here'" width="100%" />
+      <p align="center">
+        <b>PLAYER: KRISHNA</b><br>
+        <b>RANK: C-RANK (Ascending)</b><br>
+        <b>LEVEL: 19 (Semester 4)</b>
+      </p>
+      <hr>
+      <h4>System Stats</h4>
+      <b>INTEL (GPA): 7.9/10</b> <br>
+      <code>[■■■■■■■■□□]</code> <br>
+      <b>CRAFT (Dev): High</b> <br>
+      <code>[■■■■■■■■■□]</code> <br>
+      <b>CORE (Leadership): Max</b> <br>
+      <code>[■■■■■■■■■■]</code> 
+      <hr>
+      <h4>Active Skills</h4>
+      • <b>S-Rank:</b> Generative AI (RAG/Agents)<br>
+      • <b>A-Rank:</b> Three.js & Blender<br>
+      • <b>B-Rank:</b> Game Engine Arch<br>
+      • <b>A-Rank:</b> Open Source (ListenBrainz/Metaflow)
+    </td>
 
-## ⚡ PLAYER PROFILE
+    <td width="70%" valign="top">
+      <div align="center">
+        <h3>Current Pursuit: Quantum Multiverse Portfolio</h3>
+        <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI/ML','GameDev','Leadership','Astrophysics','OpenSource','Frontend'],datasets:[{label:'Skill Points',data:[90,95,92,80,85,75],backgroundColor:'rgba(76,175,80,0.2)',borderColor:'rgb(76,175,80)'}]}}" width="380" />
+      </div>
+      <hr>
+      <h4>🚨 Hero's Mission: Active Quests</h4>
+      <ul>
+        <li><b>[Project: Pulsar] OpenTriage:</b> AI dashboard for autonomous GitHub issue management.</li>
+        <li><b>[Project: A.S.P.I.R.E]:</b> Engineering NPCs with autonomous sentience and evolving behavior.</li>
+        <li><b>[Project: EV Planning]:</b> Agentic infrastructure & demand prediction capstone.</li>
+        <li><b>[Project: Flexp]:</b> Gamifying fitness through mobile development.</li>
+      </ul>
+      <hr>
+      <h4>📅 Quest Log: GSoC 2026 Path</h4>
+      • [X] Research <b>Metaflow / OpenVINO</b> organizations<br>
+      • [/] Draft GSoC Proposals & Contributions<br>
+      • [ ] Launch <b>Koren</b> YouTube Channel
+    </td>
+  </tr>
+</table>
 
-| **Field**        | **Value**                                                               |
-| ---------------- | ----------------------------------------------------------------------- |
-| **Real Name**    | Krishna                                                                 |
-| **Current Rank** | C-Rank (Ascending)                                                      |
-| **Class**        | AI Engineer / Game Architect                                            |
-| **Affiliation**  | President, College Game Development Club \| Newton School of Technology |
+### 🗺️ Choose Your Pursuits
+| <img src="https://via.placeholder.com/400x200?text=OpenTriage+Project" width="100%"><br><b>AI Tool: OpenTriage</b> | <img src="https://via.placeholder.com/400x200?text=ASPIRE+Research" width="100%"><br><b>Game AI: ASPIRE</b> |
+| :--- | :--- |
+| <img src="https://via.placeholder.com/400x200?text=Game+Dev+Club+Pres" width="100%"><br><b>Guild: Game Dev Club</b> | <img src="https://via.placeholder.com/400x200?text=3D+Portfolio" width="100%"><br><b>Space: 3D Portfolio</b> |
 
----
-
-## 📊 BASE STATS
-
-```
-Level: 19 (Year 2, Semester 4) ████████░ 80%
-
-┌─────────────────────────────────────┐
-│ INTELLECT (Academic)    7.9 CGPA    │
-│ ████████░░ 79/100                   │
-│                                     │
-│ STAMINA (Internship)    Active      │
-│ ████████░░ Software Dev @ Alfaleus  │
-│ (IIT Hyderabad)                     │
-│                                     │
-│ LEADERSHIP (Guild)      Managing    │
-│ ████████░░ WhoVR & Game Dev Club    │
-└─────────────────────────────────────┘
-```
-
----
-
-## 🛠️ ACTIVE SKILL TREE
-
-### 🤖 Generative AI [S-RANK]
-
-- Model Fine-tuning & Advanced Optimization
-- Retrieval Augmented Generation (RAG)
-- Agentic AI Architecture
-- LLM Application Development
-
-### 🌍 Open Source [A-RANK]
-
-- Contributor: **Metaflow** | **OpenTriage** | **ListenBrainz**
-- Community-driven development
-- Issue triage automation
-- Cross-platform collaboration
-
-### 🎨 Visual Arts [B-RANK]
-
-- **3D Modeling** (Blender) — Character & Environment Design
-- **WebGL** (Three.js) — Interactive Web Experiences
-- UI/UX Design & Prototyping
-
-### 🔭 Theoretic [SPECIAL]
-
-- Astrophysics (Pulsars & Black Holes)
-- Quantum Computing & Superposition
-- Deep Space Mechanics
-
----
-
-## 🚨 HERO'S MISSIONS (CURRENT PROJECTS)
-
-### 🌊 OpenTriage (Pulsar)
-
-_An AI-powered dashboard for autonomous GitHub issue management_
-
-- Intelligent issue classification & routing
-- Automated triage with NLP
-- Real-time operations monitoring
-
-### 🧠 A.S.P.I.R.E
-
-_Engineering NPCs with autonomous sentience and evolving behavior_
-
-- Behavior tree architecture
-- Learning-based adaptation
-- Game AI integration
-
-### 🌌 The Multiverse Portfolio
-
-_A 3D immersive portfolio themed around quantum computing and space_
-
-- Interactive 3D environments
-- Quantum computing visualization
-- WebGL/Three.js implementation
-
-### ⚡ EV Charging Agent
-
-_Capstone project: Predictive infrastructure & agentic planning_
-
-- Predictive analytics
-- Multi-agent systems
-- Infrastructure optimization
-
-### 💪 Flexp
-
-_Gamified fitness mobile application bridging health and gaming_
-
-- Fitness gamification mechanics
-- Mobile app development
-- User engagement optimization
-
----
-
-## 📜 QUEST LOG: GSoC 2026 PATH
-
-```
-🎯 TARGET ORGANIZATIONS:
-   ✦ Metaflow
-   ✦ OpenVINO
-   ✦ GMOD
-   ✦ MLLAM
-
-📍 STATUS: Researching & Preparing High-Impact Proposals
-🔄 DEADLINE: ~18 weeks remaining
-```
-
-**Side Quest:** Launching **"Koren"** — A YouTube channel focused on life stories and animation.
-
----
-
-## 🎨 THE VIBE (AESTHETIC)
-
-<div align="center">
-
-### Visual Inspiration
-
-**Anime/Manhwa:** _Solo Leveling_ • _The Greatest Estate Developer_
-
-**Themes:** Deep space neons • Pulsar light effects • Dark-mode forest HUDs
-
-**Favorite Artifacts:** Ben 10 • Manhwa-style UI • Holographic interfaces
-
-</div>
-
----
-
-## 📊 SKILL RADAR
-
-```
-           GENERATIVE AI
-                 ⬢
-              ╱     ╲
-         THEORETIC   LEADERSHIP
-            ⬢         ⬢
-           ╱ ╲       ╱ ╲
-      VISUAL ARTS ─ OPEN SOURCE
-            ⬢  ────  ⬢
-```
-
----
-
-## 🔗 QUICK LINKS
-
-- 📍 **Current Role:** Software Development Intern @ Alfaleus Tech
-- 🎓 **Education:** Newton School of Technology (Year 2)
-- 🏢 **Guild Leadership:** College Game Development Club President
-- 💬 **Reach out:** Open to collaborations, GSoC opportunities, and interesting projects
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider starring some projects!
-
-**Last Updated:** April 2026
-
-</div>
+### 📊 System Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+</p>
