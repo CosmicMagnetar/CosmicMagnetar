@@ -21,12 +21,12 @@
 
 ## METRICS
 
-| Metric | Value |
-|--------|-------|
-| **Repositories** | 72 |
-| **Followers** | 6 |
-| **Following** | 2 |
-| **GPA** | 7.9/10 |
+| Metric           | Value  |
+| ---------------- | ------ |
+| **Repositories** | 72     |
+| **Followers**    | 6      |
+| **Following**    | 2      |
+| **GPA**          | 7.9/10 |
 
 ---
 
@@ -50,15 +50,19 @@
 ## PROJECTS
 
 ### [OpenTriage (Pulsar)](https://github.com/CosmicMagnetar/openTriage)
+
 AI-powered dashboard for autonomous GitHub issue management with intelligent classification and routing.
 
 ### [A.S.P.I.R.E]
+
 Autonomous NPC Sentience Engine. Engineering NPCs with evolving behavioral patterns and learning capabilities.
 
 ### [EV Agent Capstone]
+
 Agentic AI system for predictive infrastructure planning and demand forecasting.
 
 ### [Flexp]
+
 Gamified fitness mobile application bridging health tracking with game mechanics.
 
 ---
