@@ -30,6 +30,12 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 
 ## 📊 SYSTEM STATS
 
+### GITHUB METRICS (LIVE DATA)
+
+![Public Repos](https://img.shields.io/badge/Repositories-72-00FF00?style=flat-square&labelColor=1a1f3a&logo=github)
+![Followers](https://img.shields.io/badge/Followers-6-00FF00?style=flat-square&labelColor=1a1f3a&logo=users)
+![Following](https://img.shields.io/badge/Following-2-00FF00?style=flat-square&labelColor=1a1f3a&logo=users)
+
 ### CORE ATTRIBUTES
 
 ![Attribute 1](https://img.shields.io/badge/S_RANK-Generative%20AI-00FF00?style=flat-square&labelColor=1a1f3a)
@@ -57,6 +63,26 @@ _"Harnessing the density of a magnetar, processing the scale of a multiverse."_
 - [✓] Research Metaflow / OpenVINO
 - [~] Prepare high-impact GSoC proposals
 - [ ] Launch **Koren** YouTube channel
+
+---
+
+## 📚 TOP REPOSITORIES
+
+- **[CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)** - Config files for my GitHub profile.
+- **[Batman-Arkham-Combat](https://github.com/CosmicMagnetar/Batman-Arkham-Combat)** - Recreating the Combat System from the Batman Arkham Series
+- **[acf-sdk-gsoc](https://github.com/CosmicMagnetar/acf-sdk-gsoc)** - The Cognitive Firewall is a Zero Trust control layer for agentic systems that protects the reasoning control plane of large language model (LLM) agents. It prevents prompt injection, context manipulation, memory poisoning, and unsafe tool-output re-injection by enforcing policy-driven validation before any input enters model context. 
+- **[A-SDF](https://github.com/CosmicMagnetar/A-SDF)** - A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation (ICCV 2021)
+- **[GenAI_Project](https://github.com/CosmicMagnetar/GenAI_Project)** - Deployed Link
+
+---
+
+## 🔥 RECENT ACTIVITY
+
+- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
+- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
+- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
+- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
+- Push Event on [CosmicMagnetar/CosmicMagnetar](https://github.com/CosmicMagnetar/CosmicMagnetar)
 
 ---
 
@@ -98,7 +124,7 @@ YouTube channel dedicated to life stories and animation content creation.
 
 <div align="center">
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-00FF00?style=flat&labelColor=1a1f3a)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-07-00FF00?style=flat&labelColor=1a1f3a)
 ![Open To](https://img.shields.io/badge/Open%20To-Collaborations-00FF00?style=flat&labelColor=1a1f3a)
 ![Contact](https://img.shields.io/badge/Contact-krishna.tml@gmail.com-00FF00?style=flat&labelColor=1a1f3a)
 
