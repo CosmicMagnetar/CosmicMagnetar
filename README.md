@@ -43,7 +43,7 @@
 
 ## TOP LANGUAGES
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88)
+**Python** • **JavaScript** • **TypeScript** • **Blender** • **C++**
 
 ---
 
@@ -67,9 +67,11 @@ Gamified fitness mobile application bridging health tracking with game mechanics
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## GITHUB STATS
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&text_color=c9d1d9&title_color=00ff88&rank_icon=github)
+![GitHub Stats Summary](https://img.shields.io/badge/Public%20Repos-72-00ff88?style=flat&labelColor=0a0e27)
+![GitHub Followers](https://img.shields.io/badge/Followers-6-00ff88?style=flat&labelColor=0a0e27)
+![GitHub Following](https://img.shields.io/badge/Following-2-00ff88?style=flat&labelColor=0a0e27)
 
 ---
 
