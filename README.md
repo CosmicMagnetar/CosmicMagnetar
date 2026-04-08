@@ -41,5 +41,8 @@
 ---
 
 <div align="center">
-    <img src="radar-chart-placeholder" width="400" />
+  
+  ### 🛰️ Quantum Developer Stats
+  
+  *Visualizing my contribution trajectory across the multiverse.*
 </div>
