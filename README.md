@@ -41,8 +41,9 @@
 ---
 
 <div align="center">
-  
-  ### 🛰️ Quantum Developer Stats
-  
-  *Visualizing my contribution trajectory across the multiverse.*
+  ...
+### 🛰️ Quantum Developer Stats
+Visualizing my contribution trajectory across the multiverse.
+
+...
 </div>
