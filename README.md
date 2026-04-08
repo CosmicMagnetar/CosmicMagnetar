@@ -40,10 +40,12 @@
 
 ---
 
-<div align="center">
-  ...
+...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
 ### 🛰️ Quantum Developer Stats
 Visualizing my contribution trajectory across the multiverse.
 
 ...
-</div>
