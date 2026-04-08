@@ -12,25 +12,25 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # --- Core Setup ---
+
+          # --- General Config ---
           user: CosmicMagnetar
           template: classic
-          base: "" # Hides the default list-style header
+          base: header, repositories
           config_timezone: Asia/Kolkata
-          config_theme: tokyonight # Matching your neon aesthetic
           
-          # --- The Spiderweb Plugin ---
+          # --- The Spiderweb (Languages) ---
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
-          plugin_languages_limit: 5             # This creates the 5-point "web"
+          plugin_languages_limit: 5
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage  # CRITICAL: This enables the Radar chart
-          plugin_languages_indepth: yes         # Scans all repos for deeper "XP" stats
+          plugin_languages_details: percentage # This renders the Radar/Spiderweb
           
-          # --- Integrating Repo/Issue Data into the vibe ---
+          # --- Activity (Issues & PRs) ---
           plugin_followup: yes
-          plugin_followup_sections: user        # Shows status of issues/PRs
+          plugin_followup_sections: user
           
-          # --- Output Config ---
-          filename: github-metrics.svg
+          # --- Aesthetic (Matching your Screenshot) ---
+          config_theme: tokyonight # Neon green/blue theme
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 0%
