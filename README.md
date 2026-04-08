@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="system-radar.svg" width="100%" alt="System Spiderweb" />
+    <img src="radar-chart-placeholder" width="400" />
 </div>
