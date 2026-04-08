@@ -41,8 +41,8 @@
 ---
 
 <div align="center">
-  <h3>📊 SYSTEM CAPABILITIES (LIVE)</h3>
-  <img src="github-metrics.svg" width="100%" alt="Spiderweb Stats" />
-</div>
+  <div align="center">
+  <h2>📊 SYSTEM CAPABILITIES (LIVE)</h2>
+  <img src="https://github.com/CosmicMagnetar/CosmicMagnetar/blob/main/github-metrics.svg" width="100%" />
 </div>
 </div>
