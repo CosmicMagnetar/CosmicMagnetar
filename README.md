@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="400" alt="Cosmic Stats" />
+  <img src="system-radar.svg" width="100%" alt="System Spiderweb" />
 </div>

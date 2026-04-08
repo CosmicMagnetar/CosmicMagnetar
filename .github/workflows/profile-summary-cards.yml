@@ -1,27 +1,34 @@
-name: Update README with Dynamic Data
-
+name: System-Radar-Update
 on:
-  schedule:
-    - cron: "0 * * * *" # Updates every hour
-  workflow_dispatch:   # Manual trigger button
-
+  schedule: [{cron: "0 * * * *"}] # Hourly update
+  workflow_dispatch:               # Manual trigger
 jobs:
-  update-readme:
+  generate-radar:
     runs-on: ubuntu-latest
-    # CRITICAL: This allows the action to save the spiderweb SVG to your repo
     permissions:
       contents: write
-      
     steps:
-      # Upgraded to v4 to resolve Node.js deprecation warnings
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Spiderweb Chart
-        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
-        env:
-          # This must match the name of the secret you created
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          username: CosmicMagnetar
-          theme: aura_dark
+          token: ${{ secrets.METRICS_TOKEN }} # Make sure this secret exists!
+          
+          # --- Core Config ---
+          user: CosmicMagnetar
+          template: classic
+          base: "" 
+          config_theme: tokyonight # Neon aesthetic
+          
+          # --- THE SPIDERWEB (Radar Chart) ---
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex
+          plugin_languages_limit: 5             # 5 points for the pentagon web
+          plugin_languages_sections: most-used
+          # CRITICAL: This line forces the RADAR/SPIDERWEB layout
+          plugin_languages_details: percentage 
+          
+          # --- THE ACTIVITY WEB (Optional, adds more "XP" data) ---
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
+          # --- File Output ---
+          filename: system-radar.svg
