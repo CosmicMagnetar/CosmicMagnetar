@@ -41,11 +41,8 @@
 ---
 
 <div align="center">
-  <h3>📊 TECH STACK ALLOCATION (LIVE)</h3>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CosmicMagnetar&theme=aura_dark" width="400" />
-
-  <br />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmicMagnetar&theme=aura_dark" width="400" />
+  <div align="center">
+  <h2>📊 SYSTEM CAPABILITIES (LIVE)</h2>
+  <img src="https://github.com/CosmicMagnetar/CosmicMagnetar/blob/main/github-metrics.svg" width="100%" />
+</div>
 </div>
