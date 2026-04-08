@@ -1,36 +1,20 @@
-name: Metrics
+name: GitHub-Profile-Summary-Cards
+
 on:
-  schedule: [{cron: "0 * * * *"}] # Updates every hour
-  workflow_dispatch:               # Allows manual refresh
-  push: {branches: ["master", "main"]}
+  schedule: # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: generate
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+        env:
+          # Use your existing secret name here
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          # --- Core Setup ---
-          user: CosmicMagnetar
-          template: classic
-          base: "" # Hides the default list-style header
-          config_timezone: Asia/Kolkata
-          config_theme: tokyonight # Matching your neon aesthetic
-          
-          # --- The Spiderweb Plugin ---
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex
-          plugin_languages_limit: 5             # This creates the 5-point "web"
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage  # CRITICAL: This enables the Radar chart
-          plugin_languages_indepth: yes         # Scans all repos for deeper "XP" stats
-          
-          # --- Integrating Repo/Issue Data into the vibe ---
-          plugin_followup: yes
-          plugin_followup_sections: user        # Shows status of issues/PRs
-          
-          # --- Output Config ---
-          filename: github-metrics.svg
+          username: CosmicMagnetar

@@ -41,8 +41,8 @@
 ---
 
 <div align="center">
-  <div align="center">
-  <h2>📊 SYSTEM CAPABILITIES (LIVE)</h2>
-  <img src="https://github.com/CosmicMagnetar/CosmicMagnetar/blob/main/github-metrics.svg" width="100%" />
+  <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="400" />
+  
+  <img src="profile-summary-card-output/aura_dark/most-commit-language.svg" width="400" />
 </div>
 </div>
