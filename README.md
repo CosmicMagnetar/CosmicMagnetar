@@ -41,8 +41,18 @@
 ---
 
 <div align="center">
-  <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="400" />
+  <h3>📊 SYSTEM CAPABILITIES (LIVE RADAR)</h3>
   
-  <img src="profile-summary-card-output/aura_dark/most-commit-language.svg" width="400" />
-</div>
+  <table border="0">
+    <tr>
+      <td>
+        <p align="center"><b>ACTIVITY STATS</b></p>
+        <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="400" />
+      </td>
+      <td>
+        <p align="center"><b>LANGUAGE MASTERY</b></p>
+        <img src="profile-summary-card-output/aura_dark/most-commit-language.svg" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>

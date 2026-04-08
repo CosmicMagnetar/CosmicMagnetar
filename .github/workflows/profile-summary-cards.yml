@@ -1,0 +1,22 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Updates every single hour
+  workflow_dispatch:   # Allows you to trigger it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-spiderweb-charts
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+        env:
+          # This uses your existing secret
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          username: CosmicMagnetar
+          # This theme matches your current neon green aesthetic
+          theme: aura_dark
