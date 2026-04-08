@@ -43,9 +43,9 @@
 <div align="center">
   <h3>📊 TECH STACK ALLOCATION (LIVE)</h3>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=CosmicMagnetar&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=ffffff&hide_border=true" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CosmicMagnetar&theme=aura_dark" width="400" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=donut&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=ffffff&hide_border=true&hide=html,css" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmicMagnetar&theme=aura_dark" width="400" />
 </div>
