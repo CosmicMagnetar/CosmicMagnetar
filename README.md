@@ -41,9 +41,5 @@
 ---
 
 <div align="center">
-  <h3>📊 SYSTEM CAPABILITIES (LIVE RADAR)</h3>
-  
-  <table border="0">
-    <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="100%" alt="Power Levels" />
-  </table>
+  <img src="profile-summary-card-output/aura_dark/profile-details.svg" width="400" alt="Cosmic Stats" />
 </div>

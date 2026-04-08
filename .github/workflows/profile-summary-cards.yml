@@ -1,23 +1,27 @@
-name: System-Radar-Update
+name: Update README with Dynamic Data
 
 on:
   schedule:
-    - cron: "0 * * * *" # Updates every hour for "Constant" data
-  workflow_dispatch:   # Allows you to manual trigger
+    - cron: "0 * * * *" # Updates every hour
+  workflow_dispatch:   # Manual trigger button
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
+    # CRITICAL: This allows the action to save the spiderweb SVG to your repo
     permissions:
-      contents: write # CRITICAL: This fixes the 9-second failure
-    name: Generate-Spiderweb
-
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+      # Upgraded to v4 to resolve Node.js deprecation warnings
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Spiderweb Chart
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         env:
-          # Use your existing METRICS_TOKEN here
+          # This must match the name of the secret you created
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           username: CosmicMagnetar
-          theme: aura_dark # Matches your neon aesthetic
+          theme: aura_dark
