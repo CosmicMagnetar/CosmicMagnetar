@@ -17,9 +17,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/snake-dark.svg" alt="Contribution Snake"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </picture>
 
 </div>

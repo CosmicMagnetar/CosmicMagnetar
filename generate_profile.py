@@ -107,8 +107,8 @@ skills = {
     "Build":    score(ts + js,          100, 800),
     "AI":       score(py,               80,  1200),
     "Craft":    score(cs,               65,  1500, cap=380),
-    "Research": min(480, total_stars * 9  + followers * 5 + 75),
-    "Deploy":   min(480, total_repos  * 14 + 85),
+    "Research": min(500, total_stars * 11 + followers * 7 + 100),
+    "Deploy":   min(500, total_repos  * 18 + 120),
 }
 
 # Commit activity — last 30 days (index 0 = 29 days ago, 29 = today)
@@ -309,10 +309,10 @@ for ring_val in [100, 200, 300, 400, 500]:
     alpha = "0.25" if ring_val < 500 else "0.45"
     add(f'<polygon points="{" ".join(pts)}" fill="none" stroke="{GREEN_DIM}" '
         f'stroke-width="1" opacity="{alpha}"/>')
-    # ring label (right side)
-    ang0 = -math.pi / 2
-    lx   = RCX + (RCR * ring_val / MAX + 4) * math.cos(ang0)
-    ly   = RCY + (RCR * ring_val / MAX)     * math.sin(ang0) - 3
+# Ring label (lower-right quadrant)
+    ang0 = -math.pi / 4
+    lx   = RCX + (RCR * ring_val / MAX + 6) * math.cos(ang0)
+    ly   = RCY + (RCR * ring_val / MAX + 4) * math.sin(ang0)
     add(f'<text x="{lx:.1f}" y="{ly:.1f}" fill="{TEXT_DIM}" font-size="7" '
         f'text-anchor="middle" font-family="monospace">{ring_val}</text>')
 
@@ -473,7 +473,7 @@ add(f'<text x="{RP_X + 12}" y="{H - 43}" fill="{TEXT_DIM}" font-size="8" '
 add(f'<text x="{RP_X + 12}" y="{H - 29}" fill="{TEXT_DIM}" font-size="8" '
     f'font-family="monospace" letter-spacing="0.5">President, Game Development Club  ·  GSoC 2026 Aspirant</text>')
 add(f'<text x="{RP_X + 12}" y="{H - 15}" fill="{TEXT_DIM}" font-size="8" '
-    f'font-family="monospace" letter-spacing="0.5">Alfaleus Technology (Intern, 2025)  ·  IIT Hyderabad</text>')
+    f'font-family="monospace" letter-spacing="0.5">Alfaleus Technology (SDI Intern, 2025)  ·  IIT Hyderabad</text>')
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Column separators (subtle)
