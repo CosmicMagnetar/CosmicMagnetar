@@ -1,48 +1,49 @@
-# 🌌 CosmicMagnetar | Software Architect & Game Developer
+# Krishna | Software Architect & Game Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" />
-</p>
-
-### 🛰️ Orbiting Technology
-- **Frontend & 3D:** React, Three.js (React Three Fiber), TypeScript, Blender
-- **Intelligence & Automation:** AI/ML integration, LLM Agents
-- **Systems & Engines:** Unity, C#, Java, Python
-- **Database & DevOps:** Turso, Vercel, Hugging Face
+Researching at the intersection of AI, 3D Web Systems, and Astrophysics.
 
 ---
 
-### 📊 Mission Control (Metrics & Radar)
+### Technical Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,threejs,ts,blender,unity,cs,py,mongodb,vercel,github" />
+</p>
 
-<table border="0">
+---
+
+### Statistical Overview
+<table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmicMagnetar&theme=tokyonight" alt="Radar Chart" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicMagnetar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicMagnetar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="General Stats" />
 </p>
 
 ---
 
-### 🚀 Active Missions
-- **OpenTriage (Pulsar):** An AI-powered dashboard for automating GitHub issue management and contributor workflows.
-- **A.S.P.I.R.E:** Developing autonomous, self-learning AI agents for deep simulation and game environments.
-- **UniLodge:** Refactoring a campus stay platform for high-performance student accommodation booking.
-- **WhoVR:** Pushing the boundaries of high-fidelity 3D modeling and web-based performance optimization.
+### Current Missions
+**OpenTriage (Pulsar)**
+A modular TypeScript monorepo utilizing AI to manage GitHub issues and contributor workflows with TursoDB integration.
+
+**A.S.P.I.R.E**
+Architecting autonomous, self-learning AI agents for deep simulation and game NPC environments.
+
+**UniLodge**
+Refactoring a campus accommodation platform for performance and scale.
+
+**WhoVR**
+Optimizing high-fidelity 3D models and web graphics performance using Draco compression.
 
 ---
 
-### 🌠 Contact & Connect
-- 💼 **Portfolio:** [cosmicmagnetar.dev](https://github.com/CosmicMagnetar)
-- 🛸 **Specializations:** Astrophysics-themed UI, Game Engine Architecture, Agentic AI
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+### Connectivity
+- **Portfolio:** [cosmicmagnetar.dev](https://github.com/CosmicMagnetar)
+- **Primary Focus:** Agentic AI, 3D Graphics, Computer Science
