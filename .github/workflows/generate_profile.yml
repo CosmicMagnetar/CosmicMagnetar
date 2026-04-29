@@ -6,8 +6,8 @@ on:
   push:
     branches: [main]
     paths:
-      - "scripts/generate_profile.py"
-      - ".github/workflows/generate-profile.yml"
+      - "generate_profile.py"
+      - ".github/workflows/generate_profile.yml"
   workflow_dispatch:
 
 permissions:
@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -41,7 +42,7 @@ jobs:
       - name: Generate Profile Card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_profile.py
+        run: python generate_profile.py
 
       - name: Commit and Push Changes
         run: |

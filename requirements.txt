@@ -1,0 +1,3 @@
+# No external dependencies required
+# generate_profile.py uses only Python stdlib:
+# - json, os, math, urllib.request, urllib.error, base64, datetime
