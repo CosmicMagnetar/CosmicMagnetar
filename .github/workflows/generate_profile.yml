@@ -1,0 +1,44 @@
+name: Generate Profile Card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"       # Daily at 03:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_profile.py"
+      - ".github/workflows/generate-profile.yml"
+  workflow_dispatch:           # Manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Build SVG Dashboard
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Generate profile-card.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_profile.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-card.svg
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "chore: update profile card [skip ci]" && git push
