@@ -202,7 +202,7 @@
 
 <div align="center">
 
-[![An image of @cosmicmagnetar's Holopin profile](https://holopin.me/cosmicmagnetar)](https://holopin.io/@cosmicmagnetar)
+[![An image of @cosmicmagnetar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cosmicmagnetar)](https://holopin.io/@cosmicmagnetar)
 
 </div>
 
