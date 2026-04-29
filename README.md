@@ -1,23 +1,26 @@
-# Krishna | Software Architect & Game Developer
+# Krishna
+**Software Architect | Game Developer | AI Researcher**
 
-Researching at the intersection of AI, 3D Web Systems, and Astrophysics.
+Focusing on the intersection of 3D Web Systems, Agentic AI, and Astrophysics.
 
 ---
 
-### Technical Infrastructure
+### Technical Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,threejs,ts,blender,unity,cs,py,mongodb,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,threejs,python,mongodb,unity,cs,cpp,blender,vercel" alt="Tech Stack" />
 </p>
 
 ---
 
-### Statistical Overview
+### Metrics & Activity
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmicMagnetar&theme=tokyonight" alt="Radar Chart" />
+      <strong>Activity Radar</strong><br />
+      <img src="https://raw.githubusercontent.com/CosmicMagnetar/CosmicMagnetar/main/github-metrics.svg" alt="Radar Chart" />
     </td>
     <td width="50%" align="center">
+      <strong>Language Distribution</strong><br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicMagnetar&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
@@ -29,21 +32,17 @@ Researching at the intersection of AI, 3D Web Systems, and Astrophysics.
 
 ---
 
-### Current Missions
-**OpenTriage (Pulsar)**
-A modular TypeScript monorepo utilizing AI to manage GitHub issues and contributor workflows with TursoDB integration.
+### Core Projects
 
-**A.S.P.I.R.E**
-Architecting autonomous, self-learning AI agents for deep simulation and game NPC environments.
+**OpenTriage** Modular TypeScript architecture for AI-driven GitHub issue management.
 
-**UniLodge**
-Refactoring a campus accommodation platform for performance and scale.
+**A.S.P.I.R.E** Development of autonomous AI agents for deep-simulation environments.
 
-**WhoVR**
-Optimizing high-fidelity 3D models and web graphics performance using Draco compression.
+**UniLodge** Performance-optimized student accommodation booking platform.
+
+**WhoVR** High-fidelity 3D model optimization and web graphics performance.
 
 ---
 
-### Connectivity
-- **Portfolio:** [cosmicmagnetar.dev](https://github.com/CosmicMagnetar)
-- **Primary Focus:** Agentic AI, 3D Graphics, Computer Science
+### Contact
+[Portfolio](https://github.com/CosmicMagnetar) | [LinkedIn](https://linkedin.com) | [Email](mailto:contact@example.com)

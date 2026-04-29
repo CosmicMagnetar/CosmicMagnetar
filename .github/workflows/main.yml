@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}] # Updates every night
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -8,12 +8,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # You will need to create a Personal Access Token (PAT) 
+          # and add it to your repo secrets as METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          
+          user: CosmicMagnetar
+          template: classic
+          base: ""
+          filename: github-metrics.svg
+          
+          # This plugin creates the Radar Chart for your Top 5 Languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          # This generates the radar chart specifically for your activity habits
+          
+          # This plugin adds the activity habits (PRs, Issues, etc.)
           plugin_habits: yes
+          plugin_habits_from: 200
           plugin_habits_charts: yes
-          config_timezone: Asia/Kolkata
