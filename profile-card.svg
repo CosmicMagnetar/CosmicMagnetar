@@ -40,7 +40,7 @@
 <rect x="14" y="14" width="94" height="18" fill="#00000088" rx="2"/>
 <text x="18" y="25" fill="#00ff88" font-size="9" font-weight="600" text-anchor="start" dominant-baseline="auto">LV. 13   E-Rank</text>
 <rect x="108" y="14" width="94" height="18" fill="#00000088" rx="2"/>
-<text x="200" y="25" fill="#ffcc44" font-size="9" font-weight="600" text-anchor="end" dominant-baseline="auto">XP 1970</text>
+<text x="200" y="25" fill="#ffcc44" font-size="9" font-weight="600" text-anchor="end" dominant-baseline="auto">XP 1964</text>
 <text x="16" y="256" fill="#3d6b4a" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">Daily Energy</text>
 <line x1="16" y1="259" x2="206" y2="259" stroke="#1c3820" stroke-width="1"/>
 <text x="16" y="283" fill="#c0f0cc" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">HP</text>
@@ -66,9 +66,9 @@
 <rect x="116" y="395" width="86" height="5" fill="#0a3a1a" rx="2"/>
 <rect x="116" y="395" width="82" height="5" fill="url(#gGreen)" rx="2"/>
 <text x="16" y="418" fill="#3d6b4a" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">AI</text>
-<text x="82" y="418" fill="#ffffff" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">238</text>
+<text x="82" y="418" fill="#ffffff" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">232</text>
 <rect x="116" y="412" width="86" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="116" y="412" width="40" height="5" fill="url(#gGreen)" rx="2"/>
+<rect x="116" y="412" width="39" height="5" fill="url(#gGreen)" rx="2"/>
 <text x="16" y="435" fill="#3d6b4a" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">Craft</text>
 <text x="82" y="435" fill="#ffffff" font-size="9" font-weight="400" text-anchor="start" dominant-baseline="auto">65</text>
 <rect x="116" y="429" width="86" height="5" fill="#0a3a1a" rx="2"/>
@@ -82,7 +82,7 @@
 <rect x="116" y="463" width="86" height="5" fill="#0a3a1a" rx="2"/>
 <rect x="116" y="463" width="86" height="5" fill="url(#gGreen)" rx="2"/>
 <line x1="16" y1="480" x2="206" y2="480" stroke="#1c3820" stroke-width="1"/>
-<text x="16" y="490" fill="#3d6b4a" font-size="9" font-family="monospace">SUM  <tspan fill="#ffffff" font-weight="700">1970</tspan></text>
+<text x="16" y="490" fill="#3d6b4a" font-size="9" font-family="monospace">SUM  <tspan fill="#ffffff" font-weight="700">1964</tspan></text>
 <rect x="222" y="8" width="438" height="584" fill="#0d1a0f" rx="3" stroke="#1c3820" stroke-width="1"/>
 <text x="441" y="36" fill="#00ff88" font-size="22" font-weight="700" font-style="italic" text-anchor="middle" dominant-baseline="middle" filter="url(#glow)" font-family="monospace">Krishna</text>
 <text x="441" y="54" fill="#3d6b4a" font-size="9" text-anchor="middle" font-family="monospace" letter-spacing="1">KRISHNA  ·  AI ARCHITECT  ·  NEWTON SCHOOL OF TECHNOLOGY</text>
@@ -103,10 +103,10 @@
 <line x1="441" y1="215" x2="441.00" y2="333.00" stroke="#1c3820" stroke-width="1"/>
 <line x1="441" y1="215" x2="338.81" y2="274.00" stroke="#1c3820" stroke-width="1"/>
 <line x1="441" y1="215" x2="338.81" y2="156.00" stroke="#1c3820" stroke-width="1"/>
-<polygon points="441.00,101.72 539.10,158.36 489.64,243.08 441.00,230.34 398.69,239.43 338.81,156.00" fill="#00ff88" fill-opacity="0.20" stroke="#00ff88" stroke-width="2" filter="url(#softglow)"/>
+<polygon points="441.00,101.72 539.10,158.36 488.42,242.38 441.00,230.34 398.69,239.43 338.81,156.00" fill="#00ff88" fill-opacity="0.20" stroke="#00ff88" stroke-width="2" filter="url(#softglow)"/>
 <circle cx="441.00" cy="101.72" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
 <circle cx="539.10" cy="158.36" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="489.64" cy="243.08" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="488.42" cy="242.38" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
 <circle cx="441.00" cy="230.34" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
 <circle cx="398.69" cy="239.43" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
 <circle cx="338.81" cy="156.00" r="3.5" fill="#00ff88" stroke="#0d1117" stroke-width="1.5"/>
@@ -133,48 +133,48 @@
 <text x="585.1" y="468" fill="#3d6b4a" font-size="7.5" text-anchor="middle" font-family="monospace">5d</text>
 <text x="638" y="375" fill="#00ff88" font-size="7.5" text-anchor="end" font-family="monospace">1 commits</text>
 <rect x="662" y="8" width="282" height="584" fill="#0d1a0f" rx="3" stroke="#1c3820" stroke-width="1"/>
-<text x="674" y="28" fill="#3d6b4a" font-size="9" font-family="monospace">XPs: <tspan fill="#00ff88" font-weight="700" font-size="15">1970</tspan></text>
-<text x="674" y="46" fill="#3d6b4a" font-size="8" font-family="monospace">To reach Level 14 attain 130 XP</text>
+<text x="674" y="28" fill="#3d6b4a" font-size="9" font-family="monospace">XPs: <tspan fill="#00ff88" font-weight="700" font-size="15">1964</tspan></text>
+<text x="674" y="46" fill="#3d6b4a" font-size="8" font-family="monospace">To reach Level 14 attain 136 XP</text>
 <rect x="674" y="56" width="260" height="6" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="56" width="34" height="6" fill="url(#gGold)" rx="2"/>
+<rect x="674" y="56" width="24" height="6" fill="url(#gGold)" rx="2"/>
 <line x1="670" y1="72" x2="940" y2="72" stroke="#1c3820" stroke-width="1"/>
 <text x="674" y="86" fill="#3d6b4a" font-size="9" font-family="monospace">Stars: <tspan fill="#ffcc44">4</tspan>   Repos: <tspan fill="#ffffff">45</tspan>   Followers: <tspan fill="#ffffff">9</tspan></text>
 <line x1="670" y1="106" x2="940" y2="106" stroke="#1c3820" stroke-width="1"/>
 <text x="674" y="120" fill="#00ff88" font-size="10" font-weight="700" font-family="monospace">Languages</text>
 <text x="674" y="145" fill="#c0f0cc" font-size="9" font-family="monospace">TypeScript</text>
-<text x="938" y="145" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">41%</text>
+<text x="938" y="145" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">39%</text>
 <rect x="674" y="149" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="149" width="104" height="5" fill="url(#gGreen)" rx="2"/>
+<rect x="674" y="149" width="100" height="5" fill="url(#gGreen)" rx="2"/>
 <text x="674" y="171" fill="#c0f0cc" font-size="9" font-family="monospace">JavaScript</text>
-<text x="938" y="171" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">34%</text>
+<text x="938" y="171" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">36%</text>
 <rect x="674" y="175" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="175" width="88" height="5" fill="url(#gBlue)" rx="2"/>
+<rect x="674" y="175" width="93" height="5" fill="url(#gBlue)" rx="2"/>
 <text x="674" y="197" fill="#c0f0cc" font-size="9" font-family="monospace">Python</text>
 <text x="938" y="197" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">13%</text>
 <rect x="674" y="201" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="201" width="34" height="5" fill="url(#gTeal)" rx="2"/>
+<rect x="674" y="201" width="32" height="5" fill="url(#gTeal)" rx="2"/>
 <text x="674" y="223" fill="#c0f0cc" font-size="9" font-family="monospace">Jupyter Noteb</text>
 <text x="938" y="223" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">9%</text>
 <rect x="674" y="227" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="227" width="23" height="5" fill="url(#gRed)" rx="2"/>
+<rect x="674" y="227" width="22" height="5" fill="url(#gRed)" rx="2"/>
 <text x="674" y="249" fill="#c0f0cc" font-size="9" font-family="monospace">CSS</text>
 <text x="938" y="249" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">2%</text>
 <rect x="674" y="253" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="253" width="5" height="5" fill="url(#gGold)" rx="2"/>
+<rect x="674" y="253" width="6" height="5" fill="url(#gGold)" rx="2"/>
 <text x="674" y="275" fill="#c0f0cc" font-size="9" font-family="monospace">HTML</text>
-<text x="938" y="275" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">0%</text>
+<text x="938" y="275" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">1%</text>
 <rect x="674" y="279" width="258" height="5" fill="#0a3a1a" rx="2"/>
-<rect x="674" y="279" width="1" height="5" fill="url(#gGreen)" rx="2"/>
+<rect x="674" y="279" width="2" height="5" fill="url(#gGreen)" rx="2"/>
 <line x1="670" y1="292" x2="940" y2="292" stroke="#1c3820" stroke-width="1"/>
 <text x="674" y="306" fill="#00ff88" font-size="10" font-weight="700" font-family="monospace">Recent Projects</text>
-<text x="674" y="322" fill="#c0f0cc" font-size="9" font-family="monospace">CosmicMagnetar</text>
-<text x="938" y="322" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">Python  *0</text>
+<text x="674" y="322" fill="#c0f0cc" font-size="9" font-family="monospace">Aether_website</text>
+<text x="938" y="322" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">JavaScript  *0</text>
 <line x1="674" y1="325" x2="940" y2="325" stroke="#1c3820" stroke-width="1"/>
-<text x="674" y="342" fill="#c0f0cc" font-size="9" font-family="monospace">Game_theory</text>
-<text x="938" y="342" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">JavaScript  *0</text>
+<text x="674" y="342" fill="#c0f0cc" font-size="9" font-family="monospace">CosmicMagnetar</text>
+<text x="938" y="342" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">Python  *0</text>
 <line x1="674" y1="345" x2="940" y2="345" stroke="#1c3820" stroke-width="1"/>
-<text x="674" y="362" fill="#c0f0cc" font-size="9" font-family="monospace">Aether_website</text>
-<text x="938" y="362" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">  *0</text>
+<text x="674" y="362" fill="#c0f0cc" font-size="9" font-family="monospace">Game_theory</text>
+<text x="938" y="362" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">JavaScript  *0</text>
 <line x1="674" y1="365" x2="940" y2="365" stroke="#1c3820" stroke-width="1"/>
 <text x="674" y="382" fill="#c0f0cc" font-size="9" font-family="monospace">ShipYard_frontend</text>
 <text x="938" y="382" fill="#3d6b4a" font-size="8" text-anchor="end" font-family="monospace">  *0</text>
